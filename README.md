@@ -1,2 +1,2 @@
 # Computational Drug Discovery (Beta-secretase 1)
-I built machine learning models of beta-secretase 1 inhibitors using ChEMBL bioactivity data.
+I built machine learning models using ChEMBL bioactivity data with a target protein, <mark>beta-secretase 1</mark>
